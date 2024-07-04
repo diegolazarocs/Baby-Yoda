@@ -4,7 +4,7 @@
   --pink: #d08791;
 }
 html {
-  background: linear-gradient(to bottom right, #dde8e2, #ddd9c5aa);
+  background: #00cc99;
   height: 100%;
   display: flex;
 }
